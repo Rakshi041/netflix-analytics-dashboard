@@ -4,7 +4,7 @@ An interactive data analytics dashboard built with Python, Pandas, Plotly Expres
 
 Live Demo
 
-**Try the dashboard:** [Open Netflix Analytics Dashboard](PASTE_YOUR_STREAMLIT_APP_URL_HERE)
+**Try the dashboard:** [Open Netflix Analytics Dashboard](https://netflix-analytics-dashboard-vmcpm8zrkasugbnobnvcdb.streamlit.app/)
 
 Project Overview
 
